@@ -194,8 +194,8 @@ iframe {
     }
     
 .foto_left {
-    width: 30%;
-    height: 50%;
+    width: 15%;
+    height: 20%;
 
 }
 .foto_right {
@@ -214,5 +214,6 @@ iframe {
 }
 .contact_right {
     margin-right: 175px;
+    margin-left: 175px;
 }
 }
