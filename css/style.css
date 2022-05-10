@@ -137,8 +137,6 @@ height: 47%;
     margin-bottom: 4.5%;
 }
 
-
-
 .contact_right {
     float: right;
     margin-right: 300px;
@@ -196,7 +194,7 @@ iframe {
     }
     
 .foto_left {
-    width: 60%;
+    width: 30%;
     height: 100%;
 
 }
@@ -205,6 +203,10 @@ iframe {
     height: 100%;
 }
 
+.foto_center {
+    float: none;
+    margin-right: 300px;
+}
 
 
 iframe {
